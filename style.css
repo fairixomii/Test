@@ -1,0 +1,31 @@
+ody{
+    background-color: #67792a;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+    color: ghostwhite;
+    text-align: center;
+}
+
+h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: ghostwhite;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+img{
+    border-radius: 8px;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+    color: ghostwhite;
+    font-size: x-small;
+}
